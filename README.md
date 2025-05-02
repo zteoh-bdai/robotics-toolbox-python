@@ -28,7 +28,7 @@ A Python implementation of the <a href="https://github.com/petercorke/robotics-t
 </td>
 </tr>
 </table>
-
+ 
 <!-- <br> -->
 
 ## Contents
